@@ -1,6 +1,6 @@
 /**
 Author: CS19S018
-Code for: Computing the numerical solution for the problem 2 using red-black approach with upto 1% error in results using MPI.
+Code for: Computing the numerical solution for the poissons eqn using Gauss-Seidel method + red-black approach with upto 1% error in results using MPI.
 Status: 
 complete: Yes,
 compiles: Yes,
