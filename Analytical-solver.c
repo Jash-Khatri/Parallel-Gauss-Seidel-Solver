@@ -1,6 +1,6 @@
 /**
 Author: CS19S018
-Code for: Computing the analytical solution for the problem 2
+Code for: Computing the analytical solution for the poissons eqn
 Status: 
 complete: Yes,
 compiles: Yes,
